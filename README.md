@@ -1,4 +1,4 @@
-# fgl-syntax README
+# fgl-syntax
 
 Thanks for downloading the official FGL syntax extension for VS Code.<br>
 **Enjoy!**
