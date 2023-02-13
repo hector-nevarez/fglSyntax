@@ -1,0 +1,25 @@
+{
+  "name": "fgl-syntax",
+  "displayName": "fgl syntax",
+  "description": "The official syntax highlighting for FGL",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "fgl",
+      "aliases": ["FGL", "fgl"],
+      "extensions": [".fgl",".ap"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "fgl",
+      "scopeName": "C:\\agisent\\app\\admin\\dev\\macros\\fgl.syn",
+      "path": "./syntaxes/fgl.tmLanguage.json"
+    }]
+  }
+}
