@@ -18,7 +18,7 @@
     }],
     "grammars": [{
       "language": "fgl",
-      "scopeName": "C:\\agisent\\app\\admin\\dev\\macros\\fgl.syn",
+      "scopeName": "source.fgl",
       "path": "./syntaxes/fgl.tmLanguage.json"
     }]
   }
